@@ -34,28 +34,24 @@
 -->
 # 💻 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=for-the-badge&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black.svg?logo=next.js&style=for-the-badge&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
 
-  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![DevCom.web.tr](https://ytcards.demolab.com/?id=FdOr3yz6vKE&title=DevCom.web.tr&lang=en&timestamp=1690383611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DevCom.web.tr")](https://www.youtube.com/watch?v=FdOr3yz6vKE)
-[![ChatGPT V4 Deneyimim](https://ytcards.demolab.com/?id=Hr0EJA1k8jE&title=ChatGPT+V4+Deneyimim&lang=en&timestamp=1689778816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT V4 Deneyimim")](https://www.youtube.com/watch?v=Hr0EJA1k8jE)
-[![What Typing 100 WPM (Words Per Minute) Looks Like?](https://ytcards.demolab.com/?id=PANX3XgEbYU&title=What+Typing+100+WPM+%28Words+Per+Minute%29+Looks+Like%3F&lang=en&timestamp=1689498011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Typing 100 WPM (Words Per Minute) Looks Like?")](https://www.youtube.com/watch?v=PANX3XgEbYU)
-[![LeetCode Görevleri 973 - K Closest Points to Origin](https://ytcards.demolab.com/?id=BF9uAT3Nv4g&title=LeetCode+G%C3%B6revleri+973+-+K+Closest+Points+to+Origin&lang=en&timestamp=1689253207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 973 - K Closest Points to Origin")](https://www.youtube.com/watch?v=BF9uAT3Nv4g)
-[![LeetCode Görevleri 1046 - Last Stone Weight](https://ytcards.demolab.com/?id=iRvguQZMess&title=LeetCode+G%C3%B6revleri+1046+-+Last+Stone+Weight&lang=en&timestamp=1688815813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 1046 - Last Stone Weight")](https://www.youtube.com/watch?v=iRvguQZMess)
-[![LeetCode Görevleri 21,23 - Merge Two Sorted Lists && Merge K Sorted Lists](https://ytcards.demolab.com/?id=lUfMRjTY-BQ&title=LeetCode+G%C3%B6revleri+21%2C23+-+Merge+Two+Sorted+Lists+%26%26+Merge+K+Sorted+Lists&lang=en&timestamp=1688612431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 21,23 - Merge Two Sorted Lists && Merge K Sorted Lists")](https://www.youtube.com/watch?v=lUfMRjTY-BQ)
-<!-- END YOUTUBE-CARDS -->
 
 
 <picture>
@@ -73,7 +69,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CanKartan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -86,7 +82,7 @@
  <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CanKartan&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -100,7 +96,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanKartan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
@@ -108,7 +104,7 @@
   
   
  <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanKartan&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
 -->
 
 
